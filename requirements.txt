@@ -2,3 +2,4 @@ requests
 loguru
 discord-webhook
 tenacity
+pyinstaller
